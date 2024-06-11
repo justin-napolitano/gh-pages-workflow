@@ -1,5 +1,5 @@
 +++
-title =  "Hugo build and Deploy GH workflow"
+title =  "Hugo Build and Deploy GH Workflow"
 date = "2024-06-11"
 description = "Hugo Build GH Workflow"
 author = "Justin Napolitano"
