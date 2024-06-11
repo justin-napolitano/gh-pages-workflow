@@ -142,8 +142,7 @@ jobs:
 
 Find the most up to date file here ```https://github.com/justin-napolitano/gh-pages-workflow.git```
 
-## Integrating the hugo build jobs into your workflow 
-
+## Integrating this into your workflow 
 From your hugo project root
 
 ### Initialize a git repo if not already done
