@@ -22,9 +22,8 @@ To simplify the build process.
 touch hugo.yaml
 ```
 
-### Set the trigger and the environment defaults  
- 
-[github link to latest file](https://github.com/justin-napolitano/gcputils/blob/main/gcpclient.py) is the link to the `gcpclient.py` file on GitHub.
+### Set the trigger and the environment defaults
+
 
 The code below creates a trigger on push from the main and the gh-pages branches.  It also sets reand and write permissions to permit executing code and building hugo.  
 
