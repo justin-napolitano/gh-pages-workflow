@@ -25,7 +25,7 @@ touch hugo.yaml
 ### Set the trigger and the environment defaults
 
 
-The code below creates a trigger on push from the main and the gh-pages branches.  It also sets reand and write permissions to permit executing code and building hugo.  
+The code below creates a trigger on push from the main and the gh-pages branches.  It also sets read and write permissions to permit executing code and building hugo.  
 
 ```yaml
 on:
