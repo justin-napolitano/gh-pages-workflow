@@ -4,7 +4,7 @@ date = "2024-06-11"
 description = "Hugo Build GH Workflow"
 author = "Justin Napolitano"
 tags = ['git', 'python', 'submodules', 'automation','workflow']
-images = ["images/feature-hugo.svg"]
+images = ["images/feature-hugo.png"]
 +++
 
 
