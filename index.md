@@ -5,6 +5,7 @@ description = "Hugo Build GH Workflow"
 author = "Justin Napolitano"
 tags = ['git', 'python', 'submodules', 'automation','workflow']
 images = ["images/feature-hugo.png"]
+categories = ["Tutorials"]
 +++
 
 
