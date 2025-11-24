@@ -1,12 +1,25 @@
 ---
-slug: "github-gh-pages-workflow"
-title: "gh-pages-workflow"
-repo: "justin-napolitano/gh-pages-workflow"
-githubUrl: "https://github.com/justin-napolitano/gh-pages-workflow"
-generatedAt: "2025-11-23T09:01:22.866130Z"
-source: "github-auto"
+slug: github-gh-pages-workflow
+title: GitHub Actions Workflow for Building and Deploying Hugo Sites
+repo: justin-napolitano/gh-pages-workflow
+githubUrl: https://github.com/justin-napolitano/gh-pages-workflow
+generatedAt: '2025-11-23T09:01:22.866130Z'
+source: github-auto
+summary: >-
+  Description of a GitHub Actions workflow automating build and deployment of Hugo static sites to
+  GitHub Pages with concurrency and permissions setup.
+tags:
+  - github-actions
+  - hugo
+  - github-pages
+  - static-site
+seoPrimaryKeyword: github actions hugo workflow
+seoSecondaryKeywords:
+  - hugo deployment
+  - github pages
+  - ci cd pipeline
+seoOptimized: true
 ---
-
 
 # Building and Deploying Hugo Sites with GitHub Actions: A Reference
 
@@ -61,3 +74,4 @@ Two main jobs run sequentially:
 ## Summary
 
 This workflow encapsulates best practices for CI/CD of Hugo static sites on GitHub Pages. It balances automation with control, providing a robust, maintainable pipeline. Returning to this project, one can understand the rationale behind each step and extend or customize it as needed for evolving site requirements or infrastructure changes.
+
