@@ -19,6 +19,13 @@ seoSecondaryKeywords:
   - github pages
   - ci cd pipeline
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The blog post focuses on automating the build and deployment process of Hugo static sites using
+  GitHub Actions. The topic catalog's 'automation' family includes such workflows and deployment
+  scripts, with a matching example slug identical to this post's slug, indicating a strong
+  alignment.
 ---
 
 # Building and Deploying Hugo Sites with GitHub Actions: A Reference
@@ -74,4 +81,5 @@ Two main jobs run sequentially:
 ## Summary
 
 This workflow encapsulates best practices for CI/CD of Hugo static sites on GitHub Pages. It balances automation with control, providing a robust, maintainable pipeline. Returning to this project, one can understand the rationale behind each step and extend or customize it as needed for evolving site requirements or infrastructure changes.
+
 
