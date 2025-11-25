@@ -6,9 +6,7 @@ repo: justin-napolitano/gh-pages-workflow
 githubUrl: https://github.com/justin-napolitano/gh-pages-workflow
 generatedAt: '2025-11-24T21:34:55.091Z'
 source: github-auto
-summary: >-
-  Learn how to automate the build and deployment of Hugo sites to GitHub Pages
-  using GitHub Actions.
+summary: Learn how to automate the build and deployment of Hugo sites to GitHub Pages using GitHub Actions.
 tags:
   - github actions
   - hugo
@@ -23,8 +21,8 @@ seoSecondaryKeywords:
   - hugo site setup
   - continuous deployment with github
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -91,4 +89,5 @@ readme.md                    # Repository README
 ---
 
 This workflow aims to simplify and automate the build and deployment process of Hugo sites on GitHub Pages, reducing manual steps and ensuring consistent deployments.
+
 
