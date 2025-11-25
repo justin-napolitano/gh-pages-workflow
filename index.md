@@ -1,31 +1,40 @@
 ---
 slug: github-gh-pages-workflow
-title: GitHub Actions Workflow for Building and Deploying Hugo Sites
+title: Automate Hugo Site Deployments with GitHub Actions
 repo: justin-napolitano/gh-pages-workflow
 githubUrl: https://github.com/justin-napolitano/gh-pages-workflow
 generatedAt: '2025-11-23T09:01:22.866130Z'
 source: github-auto
 summary: >-
-  Description of a GitHub Actions workflow automating build and deployment of Hugo static sites to
-  GitHub Pages with concurrency and permissions setup.
+  This guide details how to automate the build and deployment of Hugo sites to
+  GitHub Pages using GitHub Actions.
 tags:
   - github-actions
   - hugo
   - github-pages
   - static-site
-seoPrimaryKeyword: github actions hugo workflow
+  - github actions
+  - ci/cd
+  - static site deployment
+  - automation
+  - yaml
+seoPrimaryKeyword: github actions hugo deployment
 seoSecondaryKeywords:
-  - hugo deployment
-  - github pages
-  - ci cd pipeline
+  - hugo site automation
+  - github pages deployment
+  - ci/cd for static sites
+  - yaml workflow
+  - devops practices
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The blog post focuses on automating the build and deployment process of Hugo static sites using
-  GitHub Actions. The topic catalog's 'automation' family includes such workflows and deployment
-  scripts, with a matching example slug identical to this post's slug, indicating a strong
-  alignment.
+  The blog post focuses on automating the build and deployment process of Hugo
+  static sites using GitHub Actions. The topic catalog's 'automation' family
+  includes such workflows and deployment scripts, with a matching example slug
+  identical to this post's slug, indicating a strong alignment.
+kind: project
+id: github-gh-pages-workflow
 ---
 
 # Building and Deploying Hugo Sites with GitHub Actions: A Reference
