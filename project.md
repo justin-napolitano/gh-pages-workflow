@@ -1,14 +1,14 @@
 ---
 slug: github-gh-pages-workflow
 id: github-gh-pages-workflow
-title: Automate Hugo Site Deployment to GitHub Pages
+title: Automated GitHub Pages Workflow for Hugo Sites
 repo: justin-napolitano/gh-pages-workflow
 githubUrl: https://github.com/justin-napolitano/gh-pages-workflow
 generatedAt: '2025-11-24T21:34:55.091Z'
 source: github-auto
 summary: >-
-  Learn how to set up a GitHub Actions workflow for automated Hugo site
-  deployment to GitHub Pages on push.
+  Learn how to automate the build and deployment of Hugo sites to GitHub Pages
+  using GitHub Actions.
 tags:
   - github actions
   - hugo
@@ -18,10 +18,10 @@ tags:
 seoPrimaryKeyword: github pages workflow
 seoSecondaryKeywords:
   - hugo deployment automation
-  - gitHub actions for hugo
-  - static site deployment
-  - hugo site generator
-  - automated build process
+  - gitHub actions for static sites
+  - automated site deployment
+  - hugo site setup
+  - continuous deployment with github
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
